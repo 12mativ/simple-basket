@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-basket/static/css/main.073c9b0a.css",
+    "main.js": "/simple-basket/static/js/main.83d169a2.js",
+    "static/js/458.e0b71e5e.chunk.js": "/simple-basket/static/js/458.e0b71e5e.chunk.js",
+    "index.html": "/simple-basket/index.html",
+    "main.073c9b0a.css.map": "/simple-basket/static/css/main.073c9b0a.css.map",
+    "main.83d169a2.js.map": "/simple-basket/static/js/main.83d169a2.js.map",
+    "458.e0b71e5e.chunk.js.map": "/simple-basket/static/js/458.e0b71e5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83d169a2.js"
+  ]
+}
